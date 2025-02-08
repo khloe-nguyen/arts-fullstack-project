@@ -10,7 +10,7 @@ Team members include:
 
 2)Phan Văn Giữ - Student1455761 - Dev
 
-3)Nguyen Thi Ngoc Mai - Student1457506 - Dev
+3)Nguyễn Thị Ngọc Mai - Student1457506 - Dev
 
 4)Nguyễn Thành Nhân - Student1455763 - Dev
 
