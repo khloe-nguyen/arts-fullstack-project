@@ -16,6 +16,6 @@ Team members include:
 
 Video folder included: 'link.docx' - Youtube link to Project Overview Video
 
-Documentation folder included: 'Intallation Guide.docx'
+Document folder included: 'Intallation Guide.docx'
 
 Database folder included: 'database.bacpac'
