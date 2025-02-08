@@ -1,8 +1,11 @@
-ARTS Project - Semester 3 - FPT Aptech
+ARTS Project - E-commerce website - Semester 3 - FPT Aptech
 
 Technologies used: C# - HTML/CSS/JS - ReactJS - React Query - Styled-Components
 
-The project is developed using .NET C# for the backend and React for the frontend.
+Backend: .NET C#
+Frontend: React
+
+IDE used: Visual Studio 2022, Visual Studio Code 
 
 Team members include:
 
